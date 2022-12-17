@@ -16,8 +16,8 @@
     "js",
     "oop"
   ],
-  "author": "Oleg Ledvanov",
-  "license": "ISC",
+  "author": "Oleg Ledvanov && Valentin Vetyukov",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ledvanoff/sf_oopapp/issues"
   },
